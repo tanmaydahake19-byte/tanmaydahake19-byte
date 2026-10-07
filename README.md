@@ -1,7 +1,7 @@
 ## Hi there 👋<h1 align="center">Hi, I'm [Tanmay Dahake] 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C2FF&center=true&vCenter=true&width=480&lines=Computer+Science+Student;Frontend+Developer;Problem+Solver" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C2FF&center=true&vCenter=true&width=480&lines=welcome;Computer+Science+Student;Frontend+Developer;Problem+Solver" />
 </p>
 
 <p align="center">
